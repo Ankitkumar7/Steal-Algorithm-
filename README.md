@@ -5,13 +5,13 @@ Algrithm Name : Steal Algorithm
 Script Name : compressorv1.py       
 Author : Ankit kumar 
 
-
-
 Working principle.
 Read file and its content
 Seprate file content and append to new list.
 remove the file after appending the content of file to the list.
 For decompression, write content to new file with same name.
+
+
 
 
 - The Function main()
