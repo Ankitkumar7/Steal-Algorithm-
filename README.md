@@ -7,11 +7,11 @@ Author : Ankit kumar
 
 
 
--Working principle
-1. Read file and its content
-2. Seprate file content and append to new list 
-3. remove the file after appending the content of file to the list
-4. For decompression, write content to new file with same name 
+- Working principle.
+Read file and its content.
+Seprate file content and append to new list.
+remove the file after appending the content of file to the list.
+For decompression, write content to new file with same name.
 
 
 - The Function main()
