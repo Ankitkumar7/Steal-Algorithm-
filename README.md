@@ -1,15 +1,10 @@
 # Steal-Algorithm-
 Steal Algorithm is unique type of algorithm to reduce space occupied by files
 
-##########################################
-#                                        #
-#    Algrithm Name : Steal Algorithm     #
-#    Script Name : compressorv1.py       #
-#    Author : Ankit kumar                #
-#                                        #
-#           TIME : 10:00 AM              #
-#           DATE : 02-Dec-2016           #
-##########################################
+Algrithm Name : Steal Algorithm    
+Script Name : compressorv1.py       
+Author : Ankit kumar 
+
 
 
 -Working principle
