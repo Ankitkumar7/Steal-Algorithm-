@@ -7,8 +7,8 @@ Author : Ankit kumar
 
 
 
-- Working principle.
-Read file and its content.
+Working principle.
+Read file and its content
 Seprate file content and append to new list.
 remove the file after appending the content of file to the list.
 For decompression, write content to new file with same name.
